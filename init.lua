@@ -1,0 +1,7 @@
+require("remap")
+require("set")
+require("kickstart")
+require("nvim-tree")
+require("golsp-config")
+require("autoclose")
+require("cmp")
